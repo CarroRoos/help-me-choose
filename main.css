@@ -36,5 +36,13 @@ margin-top: 10px;
 
 .background {
   background-color: rgba(242, 242, 242, 0.7);
+}
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px; 
 
 }

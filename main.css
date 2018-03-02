@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://cdn.pixabay.com/photo/2017/12/29/14/15/seamless-3047729_1280.jpg");
+  background-color: #e6f5ff;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -35,7 +35,7 @@ margin-top: 10px;
 }
 
 .background {
-  background-color: rgba(242, 242, 242, 0.7);
+  background-color: rgba(242, 230, 255, 0.7);
 }
 
 .resultSection {
@@ -43,6 +43,6 @@ margin-top: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 35px; 
+  font-size: 35px;
 
 }
